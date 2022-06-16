@@ -1,3 +1,6 @@
 [submodule "matGeom"]
 	path = matGeom
 	url = https://github.com/mattools/matGeom.git
+[submodule "Third party scripts/matGeom"]
+	path = Third party scripts/matGeom
+	url = https://github.com/mattools/matGeom.git
