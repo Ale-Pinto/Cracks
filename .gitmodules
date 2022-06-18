@@ -1,0 +1,6 @@
+[submodule "src/utils/thirdParts/vlfeat"]
+	path = src/utils/thirdParts/vlfeat
+	url = https://github.com/vlfeat/vlfeat.git
+[submodule "src/utils/thirdParts/matGeom"]
+	path = src/utils/thirdParts/matGeom
+	url = https://github.com/mattools/matGeom.git
